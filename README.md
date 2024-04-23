@@ -12,4 +12,4 @@ You can visit the backend at https://github.com/harsh0508/ecomNode
 5. Add the id to .env
 6. Run the frontend repo .
 
-## I could have uploaded the server to GCP but i am a poor coder :)
+## I could have uploaded the server to GCP/AWS but i am a poor coder :)
